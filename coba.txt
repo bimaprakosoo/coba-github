@@ -1,3 +1,4 @@
 ayo belajar github
 - belajar git 2x seminggu
 - membuat website
+- membuat git
